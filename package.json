@@ -1,0 +1,11 @@
+{
+  "name": "LeetCode-DiscordBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/unca-acm/LeetCode-DiscordBot.git",
+  "author": "MaddHattPatt <MaddHatt.pm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
